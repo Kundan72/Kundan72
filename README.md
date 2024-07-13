@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kundan72
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Web Development projects and Ai projects with Python
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning MERN and mastering React
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me krk30538@gmail.com
 
 <!---
