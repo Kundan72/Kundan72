@@ -2,7 +2,7 @@
 - 👀 A Web Development enthusiast
 - 🌱 Currently learning MERN and mastering React
 - 💞️ Looking to collaborate on MERN projects
-- 📫 How to reach me kundankrdas22@gmail.com
+- 📫 How to reach me krk30538@gmail.com
 
 <!---
 Kundan72/Kundan72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
