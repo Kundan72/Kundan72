@@ -24,7 +24,6 @@ I love turning messy datasets into clean insights and predictive models
 
 
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
 
 #### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
