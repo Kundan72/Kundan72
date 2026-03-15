@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kundan72
-- 👀 A Web Development enthusiast
-- 🌱 Currently learning MERN and mastering React
-- 💞️ Looking to collaborate on MERN projects
+- 👀 A enthusiast Data Anlayst
+- 🌱 Currently learning to move as Data Science andd data analyst role
+- 💞️ Looking to collaborate on Data science projects
 - 📫 How to reach me krk30538@gmail.com
 
 <!---
