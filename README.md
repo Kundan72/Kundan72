@@ -48,19 +48,20 @@ I love turning messy datasets into clean insights and predictive models
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
 #### Web Scraping & Data Extraction
-BeautifulSoup • Selenium • Requests • Dynamic Content Handling • Pagination • Multi-level Website Scraping
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-WebScraping-green?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge)
+<!--BeautifulSoup • Selenium • Requests • Dynamic Content Handling • Pagination • Multi-level Website Scraping-->
 
 #### AI / ML Domains
 Computer Vision • Generative AI • Medical AI • Predictive Modeling
 
 #### Concepts
-RAG • CNNs • Classification • Data Pipelines • Deployment
+![RAG](https://img.shields.io/badge/RAG-LLM%20Concept-blue?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-DeepLearning-red?style=for-the-badge)
+<!--RAG • CNNs • Classification • Data Pipelines • Deployment-->
 
 #### Web & Deployment
-Flask • Git • VS Code • Jupyter Notebook • Google Colab
-
-#### Soft Skills
-Analytical Thinking • Independent Problem Solving • Attention to Detail • Documentation • Time Management • Clear Communication
+![Flask](https://img.shields.io/badge/Flask-WebAPI-black?style=for-the-badge)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kundankumardas) 
