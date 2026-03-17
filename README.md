@@ -40,8 +40,11 @@ I love turning messy datasets into clean insights and predictive models
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge)
 <!--BeautifulSoup • Selenium • Requests • Dynamic Content Handling • Pagination • Multi-level Website Scraping-->
 
-#### AI / ML Domains
-Computer Vision • Generative AI • Medical AI • Predictive Modeling
+### 🧠 AI / ML Domains
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DeepLearning-blue?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-LLMs-purple?style=for-the-badge)
+![Medical AI](https://img.shields.io/badge/Medical%20AI-Healthcare-red?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-ML-green?style=for-the-badge)
 
 #### Concepts
 ![RAG](https://img.shields.io/badge/RAG-LLM%20Concept-blue?style=for-the-badge)
