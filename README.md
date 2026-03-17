@@ -33,6 +33,7 @@ I love turning messy datasets into clean insights and predictive models
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Web Scraping & Data Extraction
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-WebScraping-green?style=for-the-badge)
@@ -49,6 +50,7 @@ Computer Vision • Generative AI • Medical AI • Predictive Modeling
 
 #### Web & Deployment
 ![Flask](https://img.shields.io/badge/Flask-WebAPI-black?style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kundankumardas) 
