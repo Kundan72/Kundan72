@@ -52,10 +52,6 @@ Computer Vision • Generative AI • Medical AI • Predictive Modeling
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kundankumardas) 
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kundan72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kundan72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundan72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 
 
