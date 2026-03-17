@@ -33,7 +33,6 @@ I love turning messy datasets into clean insights and predictive models
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
 #### Web Scraping & Data Extraction
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-WebScraping-green?style=for-the-badge)
